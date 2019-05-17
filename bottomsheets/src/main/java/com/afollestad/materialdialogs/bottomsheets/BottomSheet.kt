@@ -240,7 +240,7 @@ class BottomSheet : DialogBehavior {
   }
 
   private companion object {
-    private const val DEFAULT_PEEK_HEIGHT_RATIO = 0.6f
+    private const val DEFAULT_PEEK_HEIGHT_RATIO = 0.9f
     private const val LAYOUT_PEEK_CHANGE_DURATION_MS = 250L
 
     private const val BUTTONS_SHOW_START_DELAY_MS = 100L
